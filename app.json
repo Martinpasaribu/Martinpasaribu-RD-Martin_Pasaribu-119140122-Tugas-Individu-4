@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.martinpas.Apk_notifikasi"
     },
     "web": {
       "favicon": "./assets/favicon.png"
