@@ -1,0 +1,27 @@
+Printah Tugas :
+
+Buatlah aplikasi sederhana menggunakan API Expo, seperti aplikasi calendar libur nasional, notifikasi waktu ibadah, menampilkan dan mencari kontak dan lain-lain
+Kumpulkan link github aplikasi Anda pada: https://forms.office.com/r/uwUWksRP8V 
+Pada file readme.md beri keterangan:
+Nama Aplikasi
+Deskripsi Aplikasi
+Daftar package yang digunakan (expo)
+Cara menginstall aplikasi
+Aplikasi dengan format nama: KELAS-NAMA-NIM-Tugas Individu 4.apk
+Source code
+
+
+Nama Aplikasi : Apk Membuat Notifikasi
+Deskripsi : Membuat Aplikasi yang dapat melakukan Pembuatan notifikasi yang kita buat dengan menggunakan API Notification dengan menentukan judul notifikasi yang ingin dibuat,Pembahasan yang dibuat dan isi dari notifikasi tersebut
+package :   "expo": "~44.0.0",
+    "expo-status-bar": "~1.2.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-native": "0.64.3",
+    "react-native-web": "0.17.1",
+    "expo-constants": "~13.0.2",
+    "expo-permissions": "~13.1.1",
+    "expo-notifications": "~0.14.0",
+    "expo-updates": "~0.11.7"
+link apk : https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40martinpas/RD_Martin_Pasaribu_119140122_Tugas_Individu_4-2fbbb824bfdc497092e37bb5de96df14-signed.apk
+
